@@ -11,10 +11,14 @@
             "id": "921ffe8d9278c3a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Home Page.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home Page"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Contents",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,9 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ec641b84a520f59",
+  "active": "921ffe8d9278c3a9",
   "lastOpenFiles": [
-    "README.md",
+    "CNAME",
+    "Home Page.md",
     "Alimus-Public-Vault/README.md",
     "Alimus-Public-Vault",
     "git",
