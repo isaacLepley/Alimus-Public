@@ -16,7 +16,13 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 [Five Truths of the World](https://isaaclepley.github.io/Alimus-Public/five-truths.html)
 
-[Setting Overview](https://isaaclepley.github.io/Alimus-Public/setting.html)
+### [Alimus, the setting](https://isaaclepley.github.io/Alimus-Public/setting.html)
+
+#### [City Districts](https://isaaclepley.github.io/Alimus-Public/districts.html)
+
+[Government](https://isaaclepley.github.io/Alimus-Public/government.html)
+
+[Places of Interest](https://isaaclepley.github.io/Alimus-Public/poi.html)
 
 ## Logistics
 
