@@ -1,6 +1,3 @@
-# Player Overview:
-
-
 ## Hook:
 
 In the sprawling megacity of Alimus, the "stairway to the heavens," opportunities for adventure and greatness abound. Where temples to the gods above stand, cults of evil lurk in the shadows. While powerful figures strive to better the city, corruption festers and others seek control for their own gain.
@@ -15,6 +12,8 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 ## Logistics
 [Campaign Overview](https://isaaclepley.github.io/Alimus-Public/campaign-overview.html)
+
+[Example Character](https://isaaclepley.github.io/Alimus-Public/grimble.html)
 
 [House Rules](https://isaaclepley.github.io/Alimus-Public/house-rules.html)
 

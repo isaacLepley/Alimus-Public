@@ -1,4 +1,4 @@
-# House Rules and Logistical Expectations
+# House Rules
 
 ## D&D 5e 2024 rules
 
@@ -32,7 +32,8 @@
 - May be drank as a bonus action (standard rules)
 - Drinking as an action will restore the maximum health
 
-## Death saves are made in secret (not 100% convinced on this one, idk)
+## Death saves are made in secret 
+- Builds tension. Also allows for medicine checks to actually be useful for something.
 
 ## Skills as used in an urban setting:
 

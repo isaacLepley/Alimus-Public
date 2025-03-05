@@ -1,10 +1,10 @@
 # Five Truths of the World:
 
-- Cosmos: The cosmos is very active, and astrological events coincide with all sorts of festivals and phenomena every year.
-- Location: Alimus is positioned in the foothills of Mount Fyr, surrounded by three distinct biomes: plains, woods, and sea.
-- Organization: The city is split up into several major districts that generally proceed upwards towards the mountain. Some are lower and very accessible, while some are higher towards the mountain and less accessible to the masses.
-- Religion: The city is very religious, and the influence of gods is real. Their touch is seen and felt throughout the city.
-- The Crystals: The crystals at the peak of Mount Fyr are ancient and mysterious. The crystals are said to protect the surrounding area from things like bad weather and even assaults on the city.
+- **Cosmos**: The cosmos is very active, and astrological events coincide with all sorts of festivals and phenomena every year.
+- **Location**: Alimus is positioned in the foothills of Mount Fyr, surrounded by three distinct biomes: plains, woods, and sea.
+- **Organization**: The city is split up into several major districts that generally proceed upwards towards the mountain. Some are lower and very accessible, while some are higher towards the mountain and less accessible to the masses.
+- **Religion**: The city is very religious, and the influence of gods is real. Their touch is seen and felt throughout the city.
+- **The Crystals**: The crystals at the peak of Mount Fyr are ancient and mysterious. The crystals are said to protect the surrounding area from things like bad weather and even assaults on the city.
 
 # Intersecting the Truths
 

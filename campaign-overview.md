@@ -5,10 +5,10 @@ Broadly, [the setting](https://isaaclepley.github.io/Alimus-Public/setting.html)
 Now, what do I mean by campy and off-beat?
 
 ## Campy
-Campy means this game will parody on all sorts of tropes, and stories and events might be more exaggerated than a typical fantasy swords and sorcery game. I yearn for a game with a compelling story and emotional depth that is also full of whimsy. 
+Being campy means this game will parody on all sorts of tropes, and stories and events might be more exaggerated than a typical fantasy swords and sorcery game. I yearn for a game with a compelling story and emotional depth that is also full of whimsy. 
 
 This will often manifest as strange cosmological phenomenon in the region around Alimus as the crystals of Mount Fyr amplify the energies of the cosmos (and the will of the DM, mwahaha). Another example of a planned campy scenario is I would love for the party to go shopping for furnishings for their bastions once they have all acquired one - at the fantastical furniture store Kiyaya (a place way better than the real-life Ikea, of course).
 
 ## Off-Beat
 While the main pantheon of this setting is that of the Forgotten Realms, because I think their lore is rich and I like the plot implications of the many deities, it will often feel like a slightly different brand of D&D than that which is normal. I love exploring lesser-known lore tidbits and facets of the game we love, and that may be most noticeable in the enemies that you face. 
-For example, a bread-and butter D&D game may see your characters facing off against creatures like zombies, water elementals, purple worms, and red dragons. In this game, you will face off against enemies like skaabs or flesh golems, ale-mentals, bookworms, and ~~redacted~~...
+For example, a bread-and butter D&D game may see your characters facing off against creatures like zombies, water elementals, purple worms, and red dragons. In this game, you will face off against enemies like skaabs or flesh golems, ale-mentals, bookworms, and ~~redacted~~ dragons...
