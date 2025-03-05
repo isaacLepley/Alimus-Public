@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35d64ffe5ebf360f",
+  "active": "913f363969869698",
   "lastOpenFiles": [
+    "README.md",
+    "campaign-overview.md",
     "docs/assets/fantastical-city.png",
     "docs/assets",
     "docs/New folder",
@@ -190,7 +192,6 @@
     "git/Alimus-Public/Alimus-Public",
     "git/Alimus-Public",
     "git/New folder",
-    "git",
-    "README.md"
+    "git"
   ]
 }
