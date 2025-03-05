@@ -10,15 +10,13 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 # Pages:
 
-## [The Party!](https://isaaclepley.github.io/Alimus-Public/party.html)
-
-## Lore
+[The Party!](https://isaaclepley.github.io/Alimus-Public/party.html)
 
 [Five Truths of the World](https://isaaclepley.github.io/Alimus-Public/five-truths.html)
 
-### [Alimus, the setting](https://isaaclepley.github.io/Alimus-Public/setting.html)
+## [Alimus, Stairway to the Heavens](https://isaaclepley.github.io/Alimus-Public/setting.html)
 
-#### [City Districts](https://isaaclepley.github.io/Alimus-Public/districts.html)
+[City Districts](https://isaaclepley.github.io/Alimus-Public/districts.html)
 
 [Government](https://isaaclepley.github.io/Alimus-Public/government.html)
 
