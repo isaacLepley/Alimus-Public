@@ -25,11 +25,11 @@ While the city itself is full of various observatories, especially atop high bui
 Kind of a district in itself, the Port spans almost the entire western side of Alimus, following the gentle coast up to the steep cliffs closer toward Mount Fyr. There are three distinct ports in Alimus, though each share the same sea:
 
 - Sky Port: Four massive stone docks extend from the cliffs and are used by visitors from wildspace or even other planes - these visitors often have business at a large temple.
-    
+
 - Main Port: Often the most crowded part of Alimus. Commerce ran through the port is vital to life in Alimus, and the constables do their best to ensure the port runs smoothly and safely while keeping the docks filled to the brim with vessels.
-    
+
 - Lower Port: Full of ramshackle docks outside the jurisdiction of the constables. Lower port is where lowly fishers and small-time operators begin and end their days.
-    
+
 
 ### The Undergrowth
 

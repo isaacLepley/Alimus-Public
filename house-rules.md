@@ -46,5 +46,3 @@ Things to not expect to see in this game:
 
 - Wish
 - Deck of Many Things
-
-**

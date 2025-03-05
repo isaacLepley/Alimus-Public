@@ -9,14 +9,14 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 # Pages:
 ## Lore
-[Five Truths of the World](https://isaaclepley.github.io/Alimus-Public-Vault/five-truths)
+[Five Truths of the World](https://isaaclepley.github.io/Alimus-Public/five-truths.html)
 
-[Setting Overview](https://isaaclepley.github.io/Alimus-Public-Vault/setting)
+[Setting Overview](https://isaaclepley.github.io/Alimus-Public/setting.html)
 
 ## Logistics
-[Campaign Overview](https://isaaclepley.github.io/Alimus-Public-Vault/campaign-overview.html)
+[Campaign Overview](https://isaaclepley.github.io/Alimus-Public/campaign-overview.html)
 
-[House Rules](https://isaaclepley.github.io/Alimus-Public-Vault/house-rules)
+[House Rules](https://isaaclepley.github.io/Alimus-Public/house-rules.html)
 
-External Links:
+## External Links:
 [Player brainstorming document](https://docs.google.com/document/d/1gD8qbw5iMtRr_h-BPNG875Gul1bemXggJr7kiFw9V58/edit?tab=t.0). Please feel free to hop in there and record any ideas you have about the city in general.
