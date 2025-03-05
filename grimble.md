@@ -1,4 +1,6 @@
-Example of what I expect from everyone who builds a character for Alimus
+Example of what I expect from everyone who builds a character for Alimus. 
+
+[Google doc format here.](https://docs.google.com/document/d/139EMTInHm4qp8IjPIQasVY2Pz8qry4MuR3dknn3Q5xY/edit?tab=t.0)
 
 # Name: Grimble
 
