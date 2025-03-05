@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "five-truths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "five-truths"
             }
           }
         ],
@@ -207,6 +207,10 @@
   },
   "active": "0e9c2af14bc05319",
   "lastOpenFiles": [
+    "docs/assets/fantastical-city.png",
+    "districts.md",
+    "party.md",
+    "README.md",
     "git/Alimus-Public-Vault/setting.md",
     "git/Alimus-Public-Vault/poi.md",
     "git/Alimus-Public-Vault/party.md",
@@ -220,21 +224,17 @@
     "git/Alimus-Public-Vault/README.md",
     "git/Alimus-Public-Vault",
     "git",
-    "docs/assets/fantastical-city.png",
     "docs/fantastical-city.png",
     "docs/assets",
     "docs/New folder",
     "fantastical-city.png",
-    "party.md",
     "docs",
     "New folder",
-    "README.md",
     "grimble.md",
     "house-rules.md",
     "campaign-overview.md",
     "setting.md",
     "five-truths.md",
-    "districts.md",
     "government.md",
     "poi.md",
     "conflict-files-obsidian-git.md",
