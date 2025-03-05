@@ -1,4 +1,5 @@
-## Hook:
+# Alimus Wiki
+## Adventure Hook:
 
 In the sprawling megacity of Alimus, the "stairway to the heavens," opportunities for adventure and greatness abound. Where temples to the gods above stand, cults of evil lurk in the shadows. While powerful figures strive to better the city, corruption festers and others seek control for their own gain.
 
