@@ -5,6 +5,9 @@ In the sprawling megacity of Alimus, the "stairway to the heavens," opportunitie
 Alimus needs adventurers like you to fight for good and challenge the status quo. Help is always within reach, whether through temples, dojos, guilds, or conclaves. Claim your destiny and remember, in Alimus, the world is your oyster.
 
 # Pages:
+
+## [The Party!](https://isaaclepley.github.io/Alimus-Public/party.html)
+
 ## Lore
 [Five Truths of the World](https://isaaclepley.github.io/Alimus-Public/five-truths.html)
 
