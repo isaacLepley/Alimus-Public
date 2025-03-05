@@ -18,5 +18,7 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 # Pages:
 
 [Setting Overview](https://isaaclepley.github.io/Alimus-Public-Vault/setting-overview)
+
 [Campaign Overview](https://isaaclepley.github.io/Alimus-Public-Vault/campaign-overview.html)
+
 [House Rules](https://isaaclepley.github.io/Alimus-Public-Vault/house-rules)
