@@ -5,7 +5,7 @@ In the sprawling megacity of Alimus, the "stairway to the heavens," opportunitie
 
 Alimus needs adventurers like you to fight for good and challenge the status quo. Help is always within reach, whether through temples, dojos, guilds, or conclaves. Claim your destiny and remember, in Alimus, the world is your oyster.
 
-<img src="fantastical-city.png" alt="A chaotic and exciting city scene.">
+<img src="https://github.com/isaacLepley/Alimus-Public/blob/main/fantastical-city.png" alt="A chaotic and exciting city scene.">
 Life in a city is full of fantastical surprises! (from the Dungeon Master's Guide, 2024)
 # Pages:
 
