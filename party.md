@@ -4,6 +4,7 @@
 # Fitz Whimzy
 - A harengon warlock
 - Player: Luke
+
 # (Josh's character)
 - Player: Josh
 
