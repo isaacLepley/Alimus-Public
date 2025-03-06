@@ -49,3 +49,5 @@ The crystals are overseen by an ancient monastery that reveres the crystals and 
 As religion in Alimus is deeply tied to the land, every group has old stories about the connection between their god and the iconic crystals atop Mount Fyr. Many religions highly revere these crystals and view them as a connection between the material world and the divine. However, some religions disdain the crystals. 
 
 For example, faithful to Umberlee or Typhon may sneer at the crystals and their effect on the weather, since tumultuous, stormy seas represent their god’s will in the world. To their displeasure, the crystals’ calming effect on weather makes rough waves and coastal storms never affect Alimus and the sailors in its port.
+
+[Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
