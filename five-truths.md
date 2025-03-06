@@ -50,4 +50,5 @@ As religion in Alimus is deeply tied to the land, every group has old stories ab
 
 For example, faithful to Umberlee or Typhon may sneer at the crystals and their effect on the weather, since tumultuous, stormy seas represent their god’s will in the world. To their displeasure, the crystals’ calming effect on weather makes rough waves and coastal storms never affect Alimus and the sailors in its port.
 
+## 
 [Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
