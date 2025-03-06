@@ -16,4 +16,4 @@
 
 # (Garrett's character)
 
-<p style="text-align:center;">[Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)</p>
+[Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
