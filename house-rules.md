@@ -39,11 +39,14 @@
 
 -  (need to figure out a charisma skill for like knowing people, e.g. Carousing from Traveller)
 
-Short Rests are shorter
+## Short Rests are shorter
 
 - Idk how much shorter (30 or 15 minutes? Or even instantaneous, like BG3?), but d&d is designed for parties to take more short Rests than ever really happens, so I want to shorten them
 
-Things to not expect to see in this game:
+## Things to not expect to see in this game:
 
 - Wish
 - Deck of Many Things
+
+## 
+[Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
