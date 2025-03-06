@@ -32,3 +32,5 @@ Innovation deities:
 4. Gond, god of craft
     
 5. Oghma, god of knowledge
+
+[Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
