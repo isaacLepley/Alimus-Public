@@ -48,5 +48,6 @@
 - Wish
 - Deck of Many Things
 
-## 
+
+***
 [Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
