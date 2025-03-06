@@ -14,7 +14,7 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 [Five Truths of the World](https://isaaclepley.github.io/Alimus-Public/five-truths.html)
 
-## [Alimus, Stairway to the Heavens](https://isaaclepley.github.io/Alimus-Public/setting.html)
+## Alimus, Stairway to the Heavens
 
 [City Districts](https://isaaclepley.github.io/Alimus-Public/districts.html)
 
