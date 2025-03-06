@@ -13,9 +13,10 @@
 - Will probably start as a monk
 
 # (Tom's character)
+- Player: Tom
 
 # (Garrett's character)
-
+- Player: Garrett
 
 ***
 [Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
