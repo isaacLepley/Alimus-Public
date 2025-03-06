@@ -57,3 +57,6 @@ Background: TBD
 - Uncommon: Hag Eye
 
 - The one thing Grimble found at the street corner where his sister disappeared eight years ago.
+
+## 
+[Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
