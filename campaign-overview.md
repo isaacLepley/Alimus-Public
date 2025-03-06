@@ -13,4 +13,6 @@ This will often manifest as strange cosmological phenomenon in the region around
 While the main pantheon of this setting is that of the Forgotten Realms, because I think their lore is rich and I like the plot implications of the many deities, it will often feel like a slightly different brand of D&D than that which is normal. I love exploring lesser-known lore tidbits and facets of the game we love, and that may be most noticeable in the enemies that you face. 
 For example, a bread-and butter D&D game may see your characters facing off against creatures like zombies, water elementals, purple worms, and red dragons. In this game, you will face off against enemies like skaabs or flesh golems, ale-mentals, bookworms, and ~~redacted~~ dragons...
 
+
+***
 [Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
