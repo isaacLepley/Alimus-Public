@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grimble.md",
+                "file": "fear-and-sanity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "grimble"
+              "title": "fear-and-sanity"
             }
           }
         ]
@@ -181,8 +181,13 @@
   },
   "active": "35d64ffe5ebf360f",
   "lastOpenFiles": [
+    "five-truths.md",
     "house-rules.md",
+    "government.md",
+    "fear-and-sanity.md",
+    "poi.md",
     "README.md",
+    "grimble.md",
     "setting.md",
     "campaign-overview.md",
     "docs/assets/fantastical-city.png",
