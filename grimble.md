@@ -2,6 +2,8 @@ Example of what I expect from everyone who builds a character for Alimus.
 
 [Google doc format here.](https://docs.google.com/document/d/139EMTInHm4qp8IjPIQasVY2Pz8qry4MuR3dknn3Q5xY/edit?tab=t.0)
 
+Example of what I expect from everyone who builds a character for Alimus
+
 # Name: Grimble
 
 Class: Artificer
@@ -19,6 +21,14 @@ Background: TBD
 - Get into the academy and graduate as an inventor/artificer with high marks
 - Find out what really happened when his sister disappeared on a street corner eight years ago, never to be seen again.
 
+### Phobias:
+
+- Creature:
+	- **Undead**. He hasn't had many interactions with undead in his life, but stories told to him as a kid haunted his waking thoughts and his nightmares, and he dreads ever coming face to face with one.
+- Category:
+	- **Sailors**. Grimble has had unfortunate interactions with sailors, always bad it seems. When young, he was overcharged by over ten times for some fish. He was robbed by a sailor once. And a distant relative of his disappeared on a fishing excursion. Thus, he holds a deep fear and concern about sailors.
+- Specific:
+	- **Clowns**. His uncle was a clown by profession, and Grimble's family always thought he was creepy and untrustworthy. Turns out, his uncle was embezzling funds from the local orphanage and is in jail now. Grimble now trusts no clown.
 ### At least 2 connections with other party members:
 
 - TBD
@@ -56,7 +66,7 @@ Background: TBD
 
 - Uncommon: Hag Eye
 
-- The one thing Grimble found at the street corner where his sister disappeared eight years ago.
+- The one thing Grimble found at the corner where his sister disappeared eight years ago.
 
 
 ***
