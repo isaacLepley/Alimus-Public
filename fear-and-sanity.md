@@ -11,59 +11,60 @@ In Alimus, everyone has up to three **phobias** that represent their greatest fe
 The following lists are suggested phobias for this campaign. Players may pick a different, fitting phobia for any category with DM approval.
 ### Creature Phobias:
 
-- Aberrations
-- Beasts
-- Celestials
-- Constructs
-- Dragons
-- Elementals
-- Fey
-- Monstrosities
-- Plants
-- Undead
+| Aberrations | Elementals    |
+| ----------- | ------------- |
+| Beasts      | Fey           |
+| Celestials  | Monstrosities |
+| Constructs  | Plants        |
+| Dragons     | Undead        |
 ### General Phobias:
 
-- Claustrophobia: having difficulty moving, being trapped or in tight quarters
-- Humanoid fears:
-	- Criminals
-	- A class of people (sailors, salespeople, farmers, etc.)
-	- Police figures
-	- Religious figures
-- Environment fears:
-	- A particular district of Alimus
-	- Being underground
-	- Being underwater
-	- Religious buildings
-	- Government buildings
+| Situations      | Humanoids                                    | Environments                      |
+| --------------- | -------------------------------------------- | --------------------------------- |
+| Confined spaces | Criminals                                    | A particular district of Alimus   |
+| Heights         | Police/Military figures                      | Being underground                 |
+| Crowds          | Religious figures                            | Being underwater                  |
+| Rain            | A class (e.g. sailors, salespeople, farmers) | Religious or government buildings |
 
-## Fear
-When faced by a phobia or another frightening thing, a player must make a **sanity check** against being **frightened**.
-
-> Frightened. 
-> 	 - A frightened creature has disadvantage on ability checks and attack rolls.
-> 	 - A frightened creature cannot roll hero dice.
 ### Specific Phobias:
 
 These are just example specific phobias. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.
+
+| Clowns                              | Obelisks                |
+| ----------------------------------- | ----------------------- |
+| Creatures well above average height | Messy kitchens          |
+| Guidebooks                          | The AA" (Alimus Asylum) |
+
 - Clowns
 - Creatures well above average height
 - Obelisks
 - Guidebooks
 - Messy kitchens
 - "The AA" (Alimus Asylum)
+## Fear
+When faced by a phobia or another source of terror, a player must make a **sanity check** against being **frightened**. The following rules replace the **frightened** condition from D&D 5e:
+
+> **Frightened**. 
+> 	 - A frightened creature has disadvantage on ability checks and attack rolls.
+> 	 - A frightened creature cannot roll hero dice.
+
+A character can break out of fear in a couple ways:
+1. An ally can use their action to make a DC 15 Charisma check to break the character out of their fear.
+2. If a critical success is scored against their fear, whether it be an attack roll or ability check.
 ## Sanity Checks
 
 A sanity check is a mental ability check rolled when a creature is exposed to fear, horror, or is at risk of gaining stress. Being ability checks, characters do not apply proficiency to any sanity roll. Because characters can deal with trauma differently, players may choose to use any mental ability for a sanity roll, based on their method of handling the trauma they experience:
 
-Rationalize (Intelligence): a character can roll intelligence to deal with trauma as they rationalize the horror. For example, they could see a mangled corpse and tell themselves that the person passed quickly, and the horrific sight of the corpse doesn’t represent what the dead person experienced in their final moments.
-Compartmentalize (Wisdom): a character can deal with trauma by ignoring the most horrific aspects of their fear, either visualizing something less horrible or simply ignoring the truly terrible facets of what they face.
-Courage (Charisma): A character can brave up and put on a face of courage and defiance in the face of fear, and sometimes that is enough to be able to deal with fear in the moment.
+> Rationalize (**Intelligence**): a character can roll intelligence to deal with trauma as they rationalize the horror. For example, they could see a mangled corpse and tell themselves that the person passed quickly, and the horrific sight of the corpse doesn’t represent what the dead person experienced in their final moments.
+
+> Compartmentalize (**Wisdom**): a character can deal with trauma by ignoring the most horrific aspects of their fear, either visualizing something less horrible or simply ignoring the truly terrible facets of what they face.
+
+> Courage (**Charisma**): A character can brave up and put on a face of courage and defiance in the face of fear, and sometimes that is enough to be able to deal with fear in the moment.
 
 ## Stress
 
-A character exposed to 
+A character exposed to terror may become afflicted by long-term stress. When a character goes to rest, and they have failed a sanity check during the day, 
 Stress can manifest in many ways, and players will not know the specifics of any stress until they are affected by stress or accurately identify the stress plaguing a creature they interact with. Below is an example stress:
-
 
 > **Paranoia**.  You worry about hidden threats, making you anxious. You have disadvantage on all mental ability checks as you become jittery, but gain advantage on Perception checks.
 
