@@ -89,12 +89,12 @@ A character exposed to terror may become afflicted by long-term stress. When a c
 - Suffered the frightened condition or 
 - Taken psychic damage equal to or greater than the amount in the stress damage thresholds table
 
-they must make a sanity check against gaining a stress, the DC dependent on how many sanity checks they failed during the day. On a failed check, the character gains a form of stress.
+they must make a sanity check against gaining a stress. On a failed check, the character gains a form of stress.
 
 Stress thresholds for character tiers
 - will be a table with damage thresholds for each tier of play. If a character takes that much psychic damage in between rests they may gain a stress.
 
-The severity of the stress gained depends on the result of the sanity check. Stresses will have two or three tiers of severity, and those of higher severity will have broader and more detrimental effects. Each stress also incurs a -1 penalty to sanity checks.
+Each stress affecting a character incurs a -1 penalty to sanity checks.
 
 Stress can manifest in many ways, and players will not know the specifics of any stress until they are affected by stress or accurately identify the stress plaguing a creature they interact with. Below is an example stress:
 
