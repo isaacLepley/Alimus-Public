@@ -12,7 +12,8 @@ In Alimus, everyone has up to three **phobias** that represent their greatest fe
 - One creature phobia
 - One creature or general phobia
 - One specific phobia
-The following lists are suggested phobias for this campaign. Players may pick a different, fitting phobia for any category with DM approval. Characters may gain new phobias during the course of the game. If a character gain a fifth phobia, they must choose an existing phobia to replace with the new one.
+
+The following lists are suggested phobias for this campaign. Players may pick a different, fitting phobia for any category with DM approval. Characters may gain new phobias during the course of the game. Characters can have a maximum of four phobias. If a character gains a fifth phobia, they must choose an existing phobia to replace with the new one.
 
 ### Creature Phobias:
 
