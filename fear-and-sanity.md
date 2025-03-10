@@ -4,7 +4,7 @@ This game will feature horror as a prominent theme, and will include mechanics t
 
 Fear and horror cannot work without player buy-in, and players are encouraged to play into their characters' fears and reactions to the horrors they face. To encourage this roleplay, one **inspiration** will be handed out at the end of each session to a player who portrayed their character well.
 
-Finally, these rules are the result of a combination of rules, including sanity damage and other mechanics from *Call of Cthulu*, Fear and Stress from *Van Richten's Guide to Ravenloft*, Fear and Mental Stress from the *Dungeon Master's Guide* (2024), and homebrew by innovative dungeon masters across the web. These rules in concert have not been playtested, and will be stress-tested throughout the course of this campaign. Feedback is encouraged and appreciated, and these rules are subject to future changes.
+These rules are the result of a combination of rules from various sources. References include sanity damage and other mechanics from *Call of Cthulu*, Fear and Stress from *Van Richten's Guide to Ravenloft*, Fear and Mental Stress from the *Dungeon Master's Guide* (2024), and homebrew by innovative dungeon masters across the web. These rules in concert have not been play tested, and will be stress-tested throughout the course of this campaign. Feedback is encouraged and appreciated, and these rules are subject to future changes.
 
 ## Phobias
 
@@ -40,11 +40,11 @@ General phobias are broad fear categories. Below are a few examples.
 
 These following specific phobias are just examples. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.
 
-| Specific Phobias                    |                         |     |
-| ----------------------------------- | ----------------------- | --- |
-| Clowns                              | Obelisks                |     |
-| Creatures well above average height | Messy kitchens          |     |
-| Guidebooks                          | The AA" (Alimus Asylum) |     |
+| Specific Phobias                    |                         |
+| ----------------------------------- | ----------------------- |
+| Clowns                              | Obelisks                |
+| Creatures well above average height | Messy kitchens          |
+| Guidebooks                          | The AA" (Alimus Asylum) |
 
 ## Fear
 When faced by a phobia or another source of terror, a player must make a **sanity check** against being **frightened**. The following rules replace the **frightened** condition from D&D 5e:
@@ -96,9 +96,12 @@ Stress can be removed by succeeding a sanity check after fulfilling one of the f
 
 A creature that gains a third or fourth **stress** will have to make a wisdom saving throw against **insanity**. And a creature that gains a fifth stress will automatically gain the **insanity** condition.
 ### Insanity
+
 Insanity is a new condition that will appear in this game. It can occur to creatures whose minds have broken from their stress, as they have seen and experienced more horror than their mind was built to handle. A creature with insanity *typically* suffers the following effects: 
-- The insane creature cannot speak. Their mind broken, they can only communicate nonsensical manners, whether that be bubbles and noises, gestures, sprawling's or something else.
-- *Further effects of insanity will be revealed throughout the course of the game.*
+
+> **Insanity**.
+>  - The insane creature cannot speak. Their mind broken, they can only communicate nonsensical manners, whether that be bubbles and noises, gestures, sprawling's or something else.
+>  - *Further effects of insanity will be revealed throughout the course of the game.*
 ## Hope
 
 Despite all the terrors that threaten the residents of Alimus, hope and happiness exist in abundance as well. Characters have various **favorites** that will give them particular benefits depending on its type.
@@ -110,12 +113,14 @@ Once per week, spending a short rest at your favorite location or with your favo
 ### Favorite Event
 
 A favorite event is typically a cosmological event or festival that happens once per year. When your favorite event occurs, you enjoy the following benefits:
+
 - You may remove one stress without needing to make a sanity check. 
 - You gain Inspiration.
 
 ### Favored Enemy
 
 Each player chooses one non-humanoid creature type as its favored enemy (If you wish to be favored against a specific type of humanoid, you may discuss that with the DM). You gain the following benefits regarding your favored enemy:
+
 - You may spend an action when facing your favored enemy to remove the **frightened** condition from one of your allies without needing to make a charisma check.
 - You have advantage on Intelligence (History) checks to recall information about your favored creature type.
 
