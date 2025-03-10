@@ -14,8 +14,10 @@ The following condition rules will be used **instead** of the fifth edition frig
 The **frightened** condition is intricately tied to the [fear and sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html) rules that will be used in this game. Players should not expect to find ways to avoid fear entirely in this campaign, and any features a character gets that would allow them to never fear will be modified to give that character a different boon that is more fitting for the campaign.
 
 ## Insanity
-
-
+Insanity is a new condition that will appear in this game. It can occur to creatures whose minds have broken from their stress, as they have seen and experienced more horror than their mind was built to handle. A creature with insanity suffers the following effects: 
+- The insane creature cannot speak. Their mind broken, they can only communicate nonsensical manners, whether that be bubbles and noises, gestures, sprawling's or something else.
+- *Further effects of insanity will be revealed throughout the course of the game.*
+The **insanity** condition is intricately tied to the [fear and sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html) rules that will be used in this game.
 ## Character Creation
 
 - Everyone uses the same ability score rules. Options include standard array, point buy, or roll.
@@ -54,7 +56,7 @@ The **frightened** condition is intricately tied to the [fear and sanity](https:
 
 ## Short Rests are shorter
 
-- Idk how much shorter (30 or 15 minutes? Or even instantaneous, like BG3?), but d&d is designed for parties to take more short Rests than ever really happens, so I want to shorten them
+- Idk how much shorter (30 or 15 minutes? Or even instantaneous, like BG3?), but D&D is designed for parties to take more short Rests than ever really happens, so I want to shorten them
 
 ## Things to not expect to see in this game:
 
