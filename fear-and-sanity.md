@@ -13,6 +13,7 @@ In Alimus, everyone has up to three **phobias** that represent their greatest fe
 - One creature or general phobia
 - One specific phobia
 The following lists are suggested phobias for this campaign. Players may pick a different, fitting phobia for any category with DM approval. Characters may gain new phobias during the course of the game. If a character gain a fifth phobia, they must choose an existing phobia to replace with the new one.
+
 ### Creature Phobias:
 
 These creature types are recommended phobia choices for the Alimus campaign setting.
@@ -58,6 +59,7 @@ When faced by a phobia or another source of terror, a player must make a **sanit
 A character can break out of fear in a couple ways:
 1. An ally can use their action to make a DC 15 Charisma check to break the character out of their fear.
 2. If a critical success is scored against their fear, whether it be an attack roll or ability check.
+
 ## Sanity Checks
 
 A sanity check is a mental ability check rolled when a creature is exposed to fear, horror, or is at risk of gaining stress. Being ability checks, characters do not apply proficiency to any sanity roll. Because characters can deal with trauma differently, players may choose to use any mental ability for a sanity roll, based on their method of handling the trauma they experience:
@@ -79,6 +81,7 @@ The following situations will require players to make a sanity check:
 - When resting after having failed a sanity check since your last rest.
 	> Failure will result in your character gaining a **stress**.
 	> Severe failure will result in you gaining a severe stress.
+
 ## Stress
 
 A character exposed to terror may become afflicted by long-term stress. When a character goes to rest and they have failed a sanity check since their last rest, they must make a sanity check against gaining a stress, the DC dependent on how many sanity checks they failed during the day. On a failed check, the character gains a form of stress.
@@ -102,6 +105,7 @@ Insanity is a new condition that will appear in this game. It can occur to creat
 > **Insanity**.
 >  - The insane creature cannot speak. Their mind broken, they can only communicate nonsensical manners, whether that be bubbles and noises, gestures, sprawling's or something else.
 >  - *Further effects of insanity will be revealed throughout the course of the game.*
+
 ## Hope
 
 Despite all the terrors that threaten the residents of Alimus, hope and happiness exist in abundance as well. Characters have various **favorites** that will give them particular benefits depending on its type.
