@@ -113,7 +113,7 @@ A creature that gains a third or fourth **stress** will have to make a wisdom sa
 Insanity is a new condition that will appear in this game. It can occur to creatures whose minds have broken from their stress, as they have seen and experienced more horror than their mind was built to handle. A creature who is insane typically suffers the following effects: 
 
 > **Insane**.
->  - The insane creature cannot speak. Their mind broken, they can only communicate nonsensical manners, whether that be bubbles and noises, gestures, sprawling's or something else.
+>  - The insane creature cannot speak. Their mind broken, they can only communicate in nonsensical manners, whether that be mumbles and noises, gestures, scrawling's or something else.
 >  - *Further effects of insanity will be revealed throughout the course of the game.*
 
 ## Hope
