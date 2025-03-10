@@ -35,6 +35,7 @@ The following lists are suggested phobias for this campaign. Players may pick a 
 	- Being underwater
 	- Religious buildings
 	- Government buildings
+
 ## Fear
 When faced by a phobia or another frightening thing, a player must make a **sanity check** against being **frightened**.
 ### Specific Phobias:
@@ -59,18 +60,21 @@ Courage (Charisma): A character can brave up and put on a face of courage and de
 A character exposed to 
 Stress can manifest in many ways, and players will not know the specifics of any stress until they are affected by stress or accurately identify the stress plaguing a creature they interact with. Below is an example stress:
 
-```
-**Paranoia**.  You worry about hidden threats, making you anxious. You have disadvantage on all mental ability checks as you become jittery, but gain advantage on Perception checks.
-```
+
+> **Paranoia**.  You worry about hidden threats, making you anxious. You have disadvantage on all mental ability checks as you become jittery, but gain advantage on Perception checks.
+
 ## Hope
 
 Despite all the terrors that threaten the residents of Alimus, hope and happiness exist in abundance as well. Characters have various **favorites** that will give them particular benefits depending on its type.
 
 Favorite Location
 
+
+
 Favorite Event
 
 Favored Enemy
 Each player chooses one non-humanoid creature type as its favored enemy (If you wish to be favored against a type of humanoid, you may discuss that with the DM).
+
 ***
 [Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
