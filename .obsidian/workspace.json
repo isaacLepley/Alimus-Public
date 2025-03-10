@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fear-and-sanity.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fear-and-sanity"
+              "title": "README"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "7805419f7ac44cff",
   "lastOpenFiles": [
-    "house-rules.md",
     "fear-and-sanity.md",
+    "house-rules.md",
     "party.md",
     "campaign-overview.md",
     "districts.md",
