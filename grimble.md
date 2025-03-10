@@ -24,11 +24,11 @@ Background: TBD
 ### Phobias:
 
 - Creature:
-	- **Undead**. He hasn't had many interactions with undead in his life, but stories told to him as a kid haunted his waking thoughts and his nightmares, and he dreads ever coming face to face with one.
+>	**Undead**. He hasn't had many interactions with undead in his life, but stories told to him as a kid haunted his waking thoughts and his nightmares, and he dreads ever coming face to face with one.
 - Creature/General:
-	- **Sailors**. Grimble has had unfortunate interactions with sailors, always bad it seems. When young, he was overcharged by over ten times for some fish. He was robbed by a sailor once. And a distant relative of his disappeared on a fishing excursion. Thus, he holds a deep fear and concern about sailors.
+>	**Sailors**. Grimble has had unfortunate interactions with sailors, always bad it seems. When young, he was overcharged by over ten times for some fish. He was robbed by a sailor once. And a distant relative of his disappeared on a fishing excursion. Thus, he holds a deep fear and concern about sailors.
 - Specific:
-	- **Clowns**. His uncle was a clown by profession, and Grimble's family always thought he was creepy and untrustworthy. Turns out, his uncle was embezzling funds from the local orphanage and is in jail now. Grimble now trusts no clown.
+>	**Clowns**. His uncle was a clown by profession, and Grimble's family always thought he was creepy and untrustworthy. Turns out, his uncle was embezzling funds from the local orphanage and is in jail now. Grimble now trusts no clown.
 ### At least 2 connections with other party members:
 
 - TBD
