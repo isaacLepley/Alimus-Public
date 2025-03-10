@@ -86,7 +86,7 @@ The following situations will require players to make a sanity check:
 
 A character exposed to terror may become afflicted by long-term stress. When a character goes to rest and they have failed a sanity check since their last rest, they must make a sanity check against gaining a stress, the DC dependent on how many sanity checks they failed during the day. On a failed check, the character gains a form of stress.
 
-The severity of the stress gained depends on the result of the sanity check. Stresses will have two or three tiers of severity, and those of higher severity will have broader and more detrimental effects.
+The severity of the stress gained depends on the result of the sanity check. Stresses will have two or three tiers of severity, and those of higher severity will have broader and more detrimental effects. Each stress also incurs a -1 penalty to sanity checks.
 
 Stress can manifest in many ways, and players will not know the specifics of any stress until they are affected by stress or accurately identify the stress plaguing a creature they interact with. Below is an example stress:
 
@@ -100,7 +100,7 @@ Stress can be removed by succeeding a sanity check after fulfilling one of the f
 A creature that gains a third or fourth **stress** will have to make a wisdom saving throw against becoming **insane**. And a creature that gains a fifth stress will automatically become **insane**.
 ### Insanity
 
-Insanity is a new condition that will appear in this game. It can occur to creatures whose minds have broken from their stress, as they have seen and experienced more horror than their mind was built to handle. A creature who is insane *typically* suffers the following effects: 
+Insanity is a new condition that will appear in this game. It can occur to creatures whose minds have broken from their stress, as they have seen and experienced more horror than their mind was built to handle. A creature who is insane typically suffers the following effects: 
 
 > **Insane**.
 >  - The insane creature cannot speak. Their mind broken, they can only communicate nonsensical manners, whether that be bubbles and noises, gestures, sprawling's or something else.
