@@ -38,6 +38,10 @@ The following lists are suggested phobias for this campaign. Players may pick a 
 
 ## Fear
 When faced by a phobia or another frightening thing, a player must make a **sanity check** against being **frightened**.
+
+> Frightened. 
+> 	 - A frightened creature has disadvantage on ability checks and attack rolls.
+> 	 - A frightened creature cannot roll hero dice.
 ### Specific Phobias:
 
 These are just example specific phobias. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.

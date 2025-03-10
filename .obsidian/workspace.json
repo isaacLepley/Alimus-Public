@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "party.md",
+                "file": "fear-and-sanity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "party"
+              "title": "fear-and-sanity"
             }
           }
         ],
@@ -194,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "235fa434ab7046c6",
+  "active": "7805419f7ac44cff",
   "lastOpenFiles": [
+    "house-rules.md",
+    "fear-and-sanity.md",
+    "party.md",
     "campaign-overview.md",
     "districts.md",
-    "fear-and-sanity.md",
     "README.md",
-    "party.md",
     "docs/assets/Adrienne Kurai.pdf",
-    "house-rules.md",
     "grimble.md",
     "poi.md",
     "sensitive-topics.md",
