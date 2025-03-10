@@ -72,13 +72,13 @@ Players will have a negative modifier to their sanity checks equal to the number
 
 The following situations will require players to make a sanity check:
 - Facing a **phobia**.
-	- Failure will result in the character being **frightened**.
+	> Failure will result in the character being **frightened**.
 - Facing something horrifying.
-	- Failure will typically result in an amount of psychic damage dependent on the severity of the horror.
-	- A single source of terror will typically only require a sanity check when facing it for the first time.
+	> Failure will typically result in an amount of psychic damage dependent on the severity of the horror.
+	> A single source of terror will typically only require a sanity check when facing it for the first time.
 - When resting after having failed a sanity check since your last rest.
-	- Failure will result in your character gaining a **stress**.
-	- Severe failure will result in you gaining a severe stress.
+	> Failure will result in your character gaining a **stress**.
+	> Severe failure will result in you gaining a severe stress.
 ## Stress
 
 A character exposed to terror may become afflicted by long-term stress. When a character goes to rest and they have failed a sanity check since their last rest, they must make a sanity check against gaining a stress, the DC dependent on how many sanity checks they failed during the day. On a failed check, the character gains a form of stress.
