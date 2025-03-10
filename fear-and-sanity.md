@@ -39,7 +39,7 @@ General phobias are broad fear categories. Below are a few examples.
 
 ### Specific Phobias:
 
-These following specific phobias are just examples. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.
+The following phobias are just examples. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.
 
 | Specific Phobias                    |                         |
 | ----------------------------------- | ----------------------- |
@@ -48,7 +48,7 @@ These following specific phobias are just examples. Players are encouraged to be
 | Guidebooks                          | The AA" (Alimus Asylum) |
 
 ## Fear
-When faced by a phobia or another source of terror, a player must make a **sanity check** against being **frightened**. The following rules replace the **frightened** condition from D&D 5e:
+When faced by a phobia or another source of fright, a player must make a **sanity check** against being **frightened**. The following rules replace the **frightened** condition from D&D 5e:
 
 > **Frightened**.
 >  
