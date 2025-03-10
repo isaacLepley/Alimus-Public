@@ -84,12 +84,10 @@ The following situations will require players to make a sanity check:
 
 ## Stress
 
-A character exposed to terror may become afflicted by long-term stress. When a character goes to rest and they have either:
+A character exposed to terror may become afflicted by long-term stress. To avoid gaining stress, a character must succeed on a sanity check. A character is liable to gain stress when they go to rest and, since their last rest, they have either:
 
 - Suffered the frightened condition or 
 - Taken psychic damage equal to or greater than the amount in the stress damage thresholds table
-
-they must make a sanity check against gaining a stress. On a failed check, the character gains a form of stress.
 
 Stress thresholds for character tiers
 - will be a table with damage thresholds for each tier of play. If a character takes that much psychic damage in between rests they may gain a stress.
