@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sensitive-topics.md",
+                "file": "fear-and-sanity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sensitive-topics"
+              "title": "fear-and-sanity"
             }
           }
         ],
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7805419f7ac44cff",
+  "active": "235fa434ab7046c6",
   "lastOpenFiles": [
-    "README.md",
-    "sensitive-topics.md",
+    "house-rules.md",
+    "grimble.md",
     "fear-and-sanity.md",
+    "poi.md",
+    "districts.md",
+    "sensitive-topics.md",
+    "README.md",
     "_config.yml",
     "campaign-overview.md",
     "docs/assets/fantastical-city.png",

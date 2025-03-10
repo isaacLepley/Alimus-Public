@@ -13,6 +13,9 @@ The following condition rules will be used **instead** of the fifth edition frig
 - A frightened creature cannot roll hero dice.
 The **frightened** condition is intricately tied to the [fear and sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html) rules that will be used in this game. Players should not expect to find ways to avoid fear entirely in this campaign, and any features a character gets that would allow them to never fear will be modified to give that character a different boon that is more fitting for the campaign.
 
+## Insanity
+
+
 ## Character Creation
 
 - Everyone uses the same ability score rules. Options include standard array, point buy, or roll.
