@@ -41,11 +41,11 @@ General phobias are broad fear categories. Below are a few examples.
 
 The following phobias are just examples. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.
 
-| Specific Phobias                    |                         |
-| ----------------------------------- | ----------------------- |
-| Clowns                              | Obelisks                |
-| Creatures well above average height | Messy kitchens          |
-| Guidebooks                          | The AA" (Alimus Asylum) |
+| Specific Phobias                    |                          |
+| ----------------------------------- | ------------------------ |
+| Clowns                              | Obelisks                 |
+| Creatures well above average height | Messy kitchens           |
+| Guidebooks                          | "The AA" (Alimus Asylum) |
 
 ## Fear
 When faced by a phobia or another source of fright, a player must make a **sanity check** against being **frightened**. The following rules replace the **frightened** condition from D&D 5e:
