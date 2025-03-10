@@ -97,12 +97,12 @@ Stress can be removed by succeeding a sanity check after fulfilling one of the f
 - Taking a short rest with the character's favorite person.
 - Enjoying a week of downtime without having to make any sanity checks.
 
-A creature that gains a third or fourth **stress** will have to make a wisdom saving throw against **insanity**. And a creature that gains a fifth stress will automatically gain the **insanity** condition.
+A creature that gains a third or fourth **stress** will have to make a wisdom saving throw against becoming **insane**. And a creature that gains a fifth stress will automatically become **insane**.
 ### Insanity
 
-Insanity is a new condition that will appear in this game. It can occur to creatures whose minds have broken from their stress, as they have seen and experienced more horror than their mind was built to handle. A creature with insanity *typically* suffers the following effects: 
+Insanity is a new condition that will appear in this game. It can occur to creatures whose minds have broken from their stress, as they have seen and experienced more horror than their mind was built to handle. A creature who is insane *typically* suffers the following effects: 
 
-> **Insanity**.
+> **Insane**.
 >  - The insane creature cannot speak. Their mind broken, they can only communicate nonsensical manners, whether that be bubbles and noises, gestures, sprawling's or something else.
 >  - *Further effects of insanity will be revealed throughout the course of the game.*
 
