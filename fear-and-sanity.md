@@ -24,6 +24,7 @@ These creature types are recommended phobia choices for the Alimus campaign sett
 | Celestials       | Monstrosities |
 | Constructs       | Plants        |
 | Dragons          | Undead        |
+
 ### General Phobias:
 
 General phobias are broad fear categories. Below are a few examples.
@@ -39,19 +40,20 @@ General phobias are broad fear categories. Below are a few examples.
 
 These following specific phobias are just examples. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.
 
-| Specific Phobias                    |                         |     |
-| ----------------------------------- | ----------------------- | --- |
-| Clowns                              | Obelisks                |     |
-| Creatures well above average height | Messy kitchens          |     |
-| Guidebooks                          | The AA" (Alimus Asylum) |     |
+| Specific Phobias                    |                         |
+| ----------------------------------- | ----------------------- |
+| Clowns                              | Obelisks                |
+| Creatures well above average height | Messy kitchens          |
+| Guidebooks                          | The AA" (Alimus Asylum) |
+
 ## Fear
 When faced by a phobia or another source of terror, a player must make a **sanity check** against being **frightened**. The following rules replace the **frightened** condition from D&D 5e:
 
 > **Frightened**.
 >  
-> 	 - A frightened creature has disadvantage on ability checks and attack rolls.
+>  - A frightened creature has disadvantage on ability checks and attack rolls.
 >
-> 	 - A frightened creature cannot roll hero dice.
+>  - A frightened creature cannot roll hero dice.
 
 A character can break out of fear in a couple ways:
 1. An ally can use their action to make a DC 15 Charisma check to break the character out of their fear.
