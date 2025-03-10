@@ -4,7 +4,7 @@ This game will feature horror as a prominent theme, and will include mechanics t
 
 Fear and horror cannot work without player buy-in, and players are encouraged to play into their characters' fears and reactions to the horrors they face. To encourage this roleplay, one **inspiration** will be handed out at the end of each session to a player who portrayed their character well.
 
-These rules are the result of a combination of rules from various sources. References include sanity damage and other mechanics from *Call of Cthulu*, Fear and Stress from *Van Richten's Guide to Ravenloft*, Fear and Mental Stress from the *Dungeon Master's Guide* (2024), and homebrew by innovative dungeon masters across the web. These rules in concert have not been play tested, and will be stress-tested throughout the course of this campaign. Feedback is encouraged and appreciated, and these rules are subject to future changes.
+The following rules are the result of a combination of rules from various sources. References include sanity damage and other mechanics from *Call of Cthulu*, Fear and Stress from *Van Richten's Guide to Ravenloft*, Fear and Mental Stress from the *Dungeon Master's Guide* (2024), and homebrew by innovative dungeon masters across the web. These rules in concert have not been play tested, and will be stress-tested throughout the course of this campaign. Feedback is encouraged and appreciated, and these rules are subject to future changes.
 
 ## Phobias
 
