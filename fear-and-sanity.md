@@ -47,8 +47,10 @@ These following specific phobias are just examples. Players are encouraged to be
 ## Fear
 When faced by a phobia or another source of terror, a player must make a **sanity check** against being **frightened**. The following rules replace the **frightened** condition from D&D 5e:
 
-> **Frightened**. 
+> **Frightened**.
+>  
 > 	 - A frightened creature has disadvantage on ability checks and attack rolls.
+>
 > 	 - A frightened creature cannot roll hero dice.
 
 A character can break out of fear in a couple ways:
