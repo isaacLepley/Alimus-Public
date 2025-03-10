@@ -110,9 +110,12 @@ Insanity is a new condition that will appear in this game. It can occur to creat
 
 Despite all the terrors that threaten the residents of Alimus, hope and happiness exist in abundance as well. Characters have various **favorites** that will give them particular benefits depending on its type.
 
-### Favorite Location and Person
+### Favorite Deity, Location and Person
 
-Once per week, spending a short rest at your favorite location or with your favorite person will allow you to make a sanity check to remove one stress.
+Spending a short rest under any of the following conditions will allow you to make a sanity check to remove one stress. Each condition can only be used to attempt to remove stress once per week.
+- At your favorite location
+- With your favorite person
+- In reverence to your favorite deity (can be at a temple or by worshipping in a fitting manner)
 
 ### Favorite Event
 
