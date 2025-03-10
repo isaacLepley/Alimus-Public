@@ -96,9 +96,6 @@ A character exposed to terror may become afflicted by long-term stress. To avoid
 | Tier 3 (Levels 1-4)   | 17                             |
 | Tier 4 (Levels 17-20) | 25                             |
 
-Stress thresholds for character tiers
-- will be a table with damage thresholds for each tier of play. If a character takes that much psychic damage in between rests they may gain a stress.
-
 Each stress affecting a character incurs a -1 penalty to sanity checks.
 
 Stress can manifest in many ways, and players will not know the specifics of any stress until they are affected by stress or accurately identify the stress plaguing a creature they interact with. Below is an example stress:
