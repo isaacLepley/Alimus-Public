@@ -24,6 +24,7 @@ These creature types are recommended phobia choices for the Alimus campaign sett
 | Celestials       | Monstrosities |
 | Constructs       | Plants        |
 | Dragons          | Undead        |
+
 ### General Phobias:
 
 General phobias are broad fear categories. Below are a few examples.
@@ -44,6 +45,7 @@ These following specific phobias are just examples. Players are encouraged to be
 | Clowns                              | Obelisks                |     |
 | Creatures well above average height | Messy kitchens          |     |
 | Guidebooks                          | The AA" (Alimus Asylum) |     |
+
 ## Fear
 When faced by a phobia or another source of terror, a player must make a **sanity check** against being **frightened**. The following rules replace the **frightened** condition from D&D 5e:
 
