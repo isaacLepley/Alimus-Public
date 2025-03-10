@@ -15,13 +15,18 @@ In Alimus, everyone has up to three **phobias** that represent their greatest fe
 The following lists are suggested phobias for this campaign. Players may pick a different, fitting phobia for any category with DM approval. Characters may gain new phobias during the course of the game. If a character gain a fifth phobia, they must choose an existing phobia to replace with the new one.
 ### Creature Phobias:
 
-| Aberrations | Elementals    |
-| ----------- | ------------- |
-| Beasts      | Fey           |
-| Celestials  | Monstrosities |
-| Constructs  | Plants        |
-| Dragons     | Undead        |
+These creature types are recommended phobia choices for the Alimus campaign setting.
+
+| Creature Phobias |               |
+| ---------------- | ------------- |
+| Aberrations      | Elementals    |
+| Beasts           | Fey           |
+| Celestials       | Monstrosities |
+| Constructs       | Plants        |
+| Dragons          | Undead        |
 ### General Phobias:
+
+General phobias are broad fear categories. Below are a few examples.
 
 | Situations      | Humanoids                                    | Environments                      |
 | --------------- | -------------------------------------------- | --------------------------------- |
@@ -32,10 +37,11 @@ The following lists are suggested phobias for this campaign. Players may pick a 
 
 ### Specific Phobias:
 
-These are just example specific phobias. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.
+These following specific phobias are just examples. Players are encouraged to be creative with their specific phobia and come up with something unique to their character.
 
-| Clowns                              | Obelisks                |
+| Specific Phobias                    |                         |
 | ----------------------------------- | ----------------------- |
+| Clowns                              | Obelisks                |
 | Creatures well above average height | Messy kitchens          |
 | Guidebooks                          | The AA" (Alimus Asylum) |
 ## Fear
@@ -71,7 +77,10 @@ The following situations will require players to make a sanity check:
 	- Severe failure will result in you gaining a severe stress.
 ## Stress
 
-A character exposed to terror may become afflicted by long-term stress. When a character goes to rest and they have failed a sanity check since their last rest, they must make a sanity check against gaining a stress, the DC dependent on how many sanity checks they failed during the day. On a failed check, the character gains a form of stress. The severity of the stress gained depends on the result of the sanity check.
+A character exposed to terror may become afflicted by long-term stress. When a character goes to rest and they have failed a sanity check since their last rest, they must make a sanity check against gaining a stress, the DC dependent on how many sanity checks they failed during the day. On a failed check, the character gains a form of stress.
+
+The severity of the stress gained depends on the result of the sanity check. Stresses will have two or three tiers of severity, and those of higher severity will have broader and more detrimental effects.
+
 Stress can manifest in many ways, and players will not know the specifics of any stress until they are affected by stress or accurately identify the stress plaguing a creature they interact with. Below is an example stress:
 
 > **Paranoia**.  You worry about hidden threats, making you anxious. You have disadvantage on all mental ability checks as you become jittery, but gain advantage on Perception checks.
