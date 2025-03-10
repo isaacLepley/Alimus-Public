@@ -1,6 +1,6 @@
 # Adrienne Kurai
 - Player: Nina
-A [short introduction](https://isaaclepley.github.io/Alimus-Public/docs/assets/Adrienne-Kurai.pdf) to Adrienne.
+![Adrienne Kurai short overview](/docs/assets/Adrienne-Kurai.pdf)
 
 # Fitz Whimzy
 - A harengon warlock
