@@ -1,6 +1,9 @@
 # Sensitive Topics
 
 The following topics will appear in some form or another in this D&D game. Lower is a list of taboo topics that will not appear in the game. If you have any questions or concerns, please bring them up to the DM, and modifications will be made to ensure everyone has a safe roleplaying experience.
+
+[Anonymous sensitive topics feedback form](https://forms.gle/8UpkmVxeZ1Tj6BnN7).
+
 ## Mental Illness 
 
 Insanity, trauma, and stress are all sensitive topics that are deeply tied to fantasy horror. As such, this game will feature these topics, as ailments that may afflict the player characters or NPCs. 

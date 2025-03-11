@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "party.md",
+                "file": "sensitive-topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "party"
+              "title": "sensitive-topics"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "7805419f7ac44cff",
   "lastOpenFiles": [
+    "party.md",
     "README.md",
     "poi.md",
     "sensitive-topics.md",
@@ -203,7 +204,6 @@
     "fear-and-sanity.md",
     "grimble.md",
     "house-rules.md",
-    "party.md",
     "docs/assets/adrienne-kurai.pdf",
     "conflict-files-obsidian-git.md",
     "districts.md",
