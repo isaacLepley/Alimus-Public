@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fear-and-sanity.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fear-and-sanity"
+              "title": "README"
             }
           }
         ],
@@ -196,17 +196,17 @@
   },
   "active": "7805419f7ac44cff",
   "lastOpenFiles": [
-    "grimble.md",
+    "poi.md",
+    "sensitive-topics.md",
+    "campaign-overview.md",
     "fear-and-sanity.md",
+    "grimble.md",
     "house-rules.md",
     "party.md",
     "docs/assets/adrienne-kurai.pdf",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "campaign-overview.md",
     "districts.md",
-    "poi.md",
-    "sensitive-topics.md",
     "_config.yml",
     "docs/assets/fantastical-city.png",
     "docs/assets",

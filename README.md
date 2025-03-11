@@ -7,7 +7,6 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 ![A bustling city street full of whimsical creatures](/docs/assets/fantastical-city.png)
 <p style="text-align:center;">Life in a city is full of fantastical surprises! (from the Dungeon Master’s Guide, 2024)</p>
 
-
 # Pages:
 
 [The Party!](https://isaaclepley.github.io/Alimus-Public/party.html)
@@ -28,9 +27,11 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 [Example Character](https://isaaclepley.github.io/Alimus-Public/grimble.html)
 
+[Fear and Sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html)
+
 [House Rules](https://isaaclepley.github.io/Alimus-Public/house-rules.html)
 
-[Fear and Sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html)
+[Sensitive Topics](https://isaaclepley.github.io/Alimus-Public/sensitive-topics)
 ### External Links:
 
 [Player brainstorming document](https://docs.google.com/document/d/1gD8qbw5iMtRr_h-BPNG875Gul1bemXggJr7kiFw9V58/edit?tab=t.0). Please feel free to hop in there and record any ideas you have about the city in general.
