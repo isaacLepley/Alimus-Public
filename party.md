@@ -1,7 +1,7 @@
 # The Party
 ## Adrienne Kurai
 - Player: Nina
-- 
+
 [Short overview of the character](https://github.com/isaacLepley/Alimus-Public/blob/main/docs/assets/adrienne-kurai.pdf)
 ## Fitz Whimzy
 - A harengon warlock
