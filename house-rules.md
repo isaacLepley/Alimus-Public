@@ -64,9 +64,40 @@ At the end of each session, two Inspirations will be awarded:
 ## Death saves are made in secret 
 - Builds tension. Also allows for medicine checks to actually be useful for something.
 
-## Skills as used in an urban setting:
+## Skills in an Urban Setting:
+The following are examples of how skills could be used specifically in Alimus. Some commonly used or generically good and obvious skills may be omitted from the list. Please consult with your fellow party members and refer to a detailed list of skills like that in the Player Handbook or [online](https://roll20.net/compendium/dnd5e/Ability%20Scores#strength) when deciding which skills to prioritize for your character.
+**Acrobatics** (Dex)
+- Roll under a moving wagon and cling to its underside.
+**Animal Handling** (Wis)
+- Calm a rampaging elemental (or other creature with INT of 6 or lower).
+**Arcana** (Int)
+**Athletics** (Str)
+- Jump over the gap between two buildings with awkwardly slanted roofs.
+**Deception** (Cha)
+- Disappear into a crowd to evade pursuit.
+**History** (Int)
+- Recall the previous use of the district government building, and that it probably had a large cellar that is now used for other purposes.
+**Insight** (Wis)
+- Figure out what is causing a creature to react so fearfully.
+- See which patron of a crowded tavern might know the information you're looking for.
+**Intimidation** (Cha)
+**Investigation** (Int)
+- Infer details from clues at a crime scene.
+**Medicine** (Wis)
+- Determine what caused a terrible sickness to overtake someone.
+**Nature** (Int)
+- Find a medicinal herb that creeps along walls in the undergrowth.
+**Perception** (Wis)
+- Find a quarry in a crowded street.
+**Performance** (Cha)
+**Persuasion** (Cha)
+**Religion** (Int)
+- Recall which temple offers the services you require.
+**Sleight of Hand** (Dex)
+- Lift a key from the guard you just bumped into.
+**Survival** (Wis)
+- Find a safe path through the port market to avoid the watchful eyes of the port authority.
 
--  (need to figure out a charisma skill for like knowing people, e.g. Carousing from Traveller)
 
 ## Short Rests are shorter
 
