@@ -73,8 +73,10 @@ At the end of each session, two Inspirations will be awarded:
 
 ## Things to expect to see in this game:
 
+- A diverse cast of NPCs
 - The Fey Realm
 - The Shadowfell
+- Wildspace/cosmic travellers
 - Worship of Forgotten Realms Deities
 
 ## Things to not expect to see in this game:
