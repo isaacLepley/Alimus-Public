@@ -71,10 +71,19 @@ At the end of each session, two Inspirations will be awarded:
 
 - Idk how much shorter (30 or 15 minutes? Or even instantaneous, like BG3?), but D&D is designed for parties to take more short Rests than ever really happens, so I want to shorten them
 
+## Things to expect to see in this game:
+
+- The Fey Realm
+- The Shadowfell
+- Worship of Forgotten Realms Deities
+
 ## Things to not expect to see in this game:
 
 - Wish
 - Deck of Many Things
+- The elemental planes/elemental chaos
+- The outer planes
+- The Seelie and Unseelie courts
 
 
 ***
