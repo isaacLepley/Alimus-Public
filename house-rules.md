@@ -73,7 +73,7 @@ At the end of each session, two Inspirations will be awarded:
 
 ## Things to expect to see in this game:
 
-- A diverse cast of NPCs
+- A very diverse, whimsical cast of NPCs
 - The Fey Realm
 - The Shadowfell
 - Wildspace/cosmic travellers
