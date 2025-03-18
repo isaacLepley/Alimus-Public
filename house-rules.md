@@ -25,7 +25,7 @@ Insanity is a new condition that will appear in this game. It can occur to creat
 >  - The insane creature cannot speak. Their mind broken, they can only communicate nonsensical manners, whether that be bubbles and noises, gestures, sprawling's or something else.
 >  - *Further effects of insanity will be revealed throughout the course of the game.*
 
-The **insanity** condition is intricately tied to the [fear and sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html) rules that will be used in this game. The vast majority of characters in Alimus do not know how to cure insanity, but thankfully, it is a rare condition. It is known that the Alimus Asylum cures patients after intensive care, and the cured patients are sent back out into society.
+The **insanity** condition is intricately tied to the [fear and sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html) rules that will be used in this game. The vast majority of characters in Alimus do not know how to cure insanity, but thankfully, it is a rare condition. It is known that the Alimus Asylum has cured patients after intensive care, and those cured have been sent back out into society to continue living normal lives.
 
 ## Character Creation
 
