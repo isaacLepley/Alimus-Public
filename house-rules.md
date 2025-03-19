@@ -63,7 +63,7 @@ Example uses of downtime:
 - Campaigning or preparing to ascend to a political or religious position
 - Preparing for the academy entrance exam.
 
-See the Skills section for examples of how each skill could be applied in downtime.
+See the **Skills** section for examples of how each skill could be applied in downtime.
 
 ## Free flavor feat
 
@@ -103,6 +103,7 @@ The following are examples of how skills could be used specifically in Alimus. S
 
 Downtime: Train to perform an acrobatic stunt in the city coliseum or academy arena.
 
+
 **Animal Handling** (Wis)
 - Calm a rampaging elemental (or other creature with INT of 6 or lower).
 - Gaining **insight** about an animal's behavior.
@@ -111,6 +112,7 @@ Downtime: Train to perform an acrobatic stunt in the city coliseum or academy ar
 - (Can typically be used to replace any **Wisdom** or **Charisma** skill when interacting with an animal/beast).
 
 Downtime: befriend or train a pet.
+
 
 **Arcana** (Int)
 - Identify what spell a magic user is attempting to cast.
