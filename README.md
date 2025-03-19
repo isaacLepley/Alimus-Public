@@ -17,6 +17,8 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 - [City Districts](https://isaaclepley.github.io/Alimus-Public/districts.html)
 
+- [Festivals and Phenomena](https://isaaclepley.github.io/Alimus-Public/festivals-and-phenomena.html)
+
 - [Government](https://isaaclepley.github.io/Alimus-Public/government.html)
 
 - [Places of Interest](https://isaaclepley.github.io/Alimus-Public/poi.html)
