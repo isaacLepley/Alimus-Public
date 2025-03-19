@@ -57,13 +57,13 @@ Examples of downtime in popular culture:
 - Van Wilder planning and preparing a blowout party
 
 Example uses of downtime:
-
-See the Skills section for examples of how each skill could be applied in downtime.
 - Training to learn a flavor feat.
 - Researching ancient, complex, or repressed lore.
 - Building an addition to a **Bastion**
 - Campaigning or preparing to ascend to a political or religious position
-- Preparing for the academy entrance exam .
+- Preparing for the academy entrance exam.
+
+See the Skills section for examples of how each skill could be applied in downtime.
 
 ## Free flavor feat
 
