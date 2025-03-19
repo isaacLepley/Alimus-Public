@@ -57,6 +57,7 @@ Examples of downtime in popular culture:
 - Van Wilder planning and preparing a blowout party
 
 Example uses of downtime:
+
 See the Skills section for examples of how each skill could be applied in downtime.
 - Training to learn a flavor feat.
 - Researching ancient, complex, or repressed lore.
@@ -65,8 +66,16 @@ See the Skills section for examples of how each skill could be applied in downti
 - Preparing for the academy entrance exam 
 
 ## Free flavor feat
+
 - Flavor feats generally don't have combat utility. Please ask me if you are unsure what constitutes a flavor feat.
 - These may be learned by studying a craft during downtime.
+
+## Hero Points
+
+Hero Points are a pool of d6 dice that players can roll from to increase the result of any d20 roll - attack, ability check, or saving throw (even death saving throws. Only one d6 may be added per roll). These dice facilitate and represent player characters' ability to succeed in extraordinary circumstances. Hero dice are available to be rolled at any time, except for whena character is **frightened**.
+
+The hero dice pool refreshes on level up. The number of hero dice available is equal to 5 plus half the character's level, rounded down.
+
 
 ## I know a guy!
 
@@ -101,11 +110,16 @@ Downtime: Train to perform an acrobatic stunt in the city coliseum or academy ar
 Downtime: befriend or train a pet.
 
 **Arcana** (Int)
+- Identify what spell a magic user is attempting to cast.
+- Determine if a spell available to you could produce the desired effect.
 - 
-Downtime: craft a simple magic item
+Downtime: craft a common magic item
 
 **Athletics** (Str)
 - Jump over the gap between two buildings with awkwardly slanted roofs.
+- Scaling a suitable wall.
+- Pushing, pulling, lifting or carrying something that requires considerable exertion
+Downtime: Put in manual labor to build an addition to a **Bastion**.
 
 **Deception** (Cha)
 - Disappear into a crowd to evade pursuit.
