@@ -41,15 +41,28 @@ At the end of each session, two Inspirations will be awarded:
 ## Starting equipment
 
 - Standard rules plus flavor/blursed items
-- One common and one uncommon magic item.
+    - One common and one uncommon magic item.
 - They serve the purpose of adding flavor and depth to your character, and at least one should come with story implications.
 - i.e. a blessed sword that you are trying to return to its original owner as thanks for something. Or a cloak that helps you hide, but in social situations likes to start banter with others and poke fun at you.
 
 ## Downtime
 
 As cosmological events and the calendar are very important in Alimus, downtime between notable events or exploits will be common. Villainous machinations typically unfold over the course of months and years, if not decades - not just over days and weeks. And our party's growth from level 1 to 20 in this campaign should feel organic, natural, and earned - not sudden and meteroic. The time between adventures is still very important - while ne'er-do-wells scheme and the stars follow their courses, our party will be training, investigating, researching and more.
-Uses of downtime:
+Downtime should build toward the narrative and portray characters living their lives while minding the pivotal events that have and will occurred in our game sessions. 
 
+Examples of downtime in popular culture:
+- Gandalf researching the rings in *Fellowship*
+- Frodo healing in Rivendell
+- Rambo's training montages
+- Van Wilder planning and preparing a blowout party
+
+Example uses of downtime:
+See the Skills section for examples of how each skill could be applied in downtime.
+- Training to learn a flavor feat.
+- Researching ancient, complex, or repressed lore.
+- Building an addition to a **Bastion**
+- Campaigning or preparing to ascend to a political or religious position
+- Preparing for the academy entrance exam 
 
 ## Free flavor feat
 - Flavor feats generally don't have combat utility. Please ask me if you are unsure what constitutes a flavor feat.
