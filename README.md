@@ -9,9 +9,9 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 # Pages:
 
-[The Party!](https://isaaclepley.github.io/Alimus-Public/party.html)
-
 [Five Truths of the World](https://isaaclepley.github.io/Alimus-Public/five-truths.html)
+
+[The Party!](https://isaaclepley.github.io/Alimus-Public/party.html)
 
 ### Alimus, Stairway to the Heavens
 
@@ -23,15 +23,15 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 ### Logistics
 
-[Campaign Overview](https://isaaclepley.github.io/Alimus-Public/campaign-overview.html)
+- [Campaign Overview](https://isaaclepley.github.io/Alimus-Public/campaign-overview.html)
 
-[Example Character](https://isaaclepley.github.io/Alimus-Public/grimble.html)
+- [Example Character](https://isaaclepley.github.io/Alimus-Public/grimble.html)
 
-[Fear and Sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html)
+- [Fear and Sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html)
 
-[House Rules](https://isaaclepley.github.io/Alimus-Public/house-rules.html)
+- [House Rules](https://isaaclepley.github.io/Alimus-Public/house-rules.html)
 
-[Sensitive Topics](https://isaaclepley.github.io/Alimus-Public/sensitive-topics)
+- [Sensitive Topics](https://isaaclepley.github.io/Alimus-Public/sensitive-topics)
 ### External Links:
 
 [Player brainstorming document](https://docs.google.com/document/d/1gD8qbw5iMtRr_h-BPNG875Gul1bemXggJr7kiFw9V58/edit?tab=t.0). Please feel free to hop in there and record any ideas you have about the city in general.
