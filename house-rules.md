@@ -124,6 +124,7 @@ The following are examples of how skills could be used specifically in Alimus. S
 - A very diverse, whimsical cast of NPCs
 - The Fey Realm
 - The Shadowfell
+- The Underdark
 - Wildspace/cosmic travellers
 - Worship of Forgotten Realms Deities
 
@@ -133,7 +134,7 @@ The following are examples of how skills could be used specifically in Alimus. S
 - Deck of Many Things
 - The elemental planes/elemental chaos
 - The outer planes
-- The Seelie and Unseelie courts
+- The Seelie and Unseelie fey courts
 
 
 ***
