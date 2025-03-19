@@ -100,9 +100,7 @@ The following are examples of how skills could be used specifically in Alimus. S
 - Roll under a moving wagon and cling to its underside.
 - Tucking and rolling to avoid taking damage from a short fall.
 - Quickly navigate typical city obstacles in a parkour manner.
-
-Downtime: Train to perform an acrobatic stunt in the city coliseum or academy arena.
-
+- **Downtime**: Train to perform an acrobatic stunt in the city coliseum or academy arena.
 
 **Animal Handling** (Wis)
 - Calm a rampaging elemental (or other creature with INT of 6 or lower).
@@ -111,7 +109,6 @@ Downtime: Train to perform an acrobatic stunt in the city coliseum or academy ar
 - Hush a guard dog that may begin barking.
 - (Can typically be used to replace any **Wisdom** or **Charisma** skill when interacting with an animal/beast).
 - **Downtime**: befriend or train a pet.
-
 
 **Arcana** (Int)
 - Identify what spell a magic user is attempting to cast.
