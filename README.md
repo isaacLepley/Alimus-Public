@@ -15,11 +15,11 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 
 ### Alimus, Stairway to the Heavens
 
-[City Districts](https://isaaclepley.github.io/Alimus-Public/districts.html)
+- [City Districts](https://isaaclepley.github.io/Alimus-Public/districts.html)
 
-[Government](https://isaaclepley.github.io/Alimus-Public/government.html)
+- [Government](https://isaaclepley.github.io/Alimus-Public/government.html)
 
-[Places of Interest](https://isaaclepley.github.io/Alimus-Public/poi.html)
+- [Places of Interest](https://isaaclepley.github.io/Alimus-Public/poi.html)
 
 ### Logistics
 
