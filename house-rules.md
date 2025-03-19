@@ -30,13 +30,14 @@ The **insanity** condition is intricately tied to the [fear and sanity](https://
 ## Character Creation
 
 - Everyone uses the same ability score rules. Options include standard array, point buy, or roll.
-	- If rolled, everyone will roll once and those numbers will be the standard array for the party.
+- If rolled, everyone will roll once and those numbers will be the standard array for the party.
 
 ## Inspiration
 
 At the end of each session, two Inspirations will be awarded:
 - To the player who shone in role play.
 - To the player most nominated by other party members.
+
 ## Starting equipment
 
 - Standard rules plus flavor/blursed items
@@ -44,9 +45,15 @@ At the end of each session, two Inspirations will be awarded:
 - They serve the purpose of adding flavor and depth to your character, and at least one should come with story implications.
 - i.e. a blessed sword that you are trying to return to its original owner as thanks for something. Or a cloak that helps you hide, but in social situations likes to start banter with others and poke fun at you.
 
+## Downtime
+
+As cosmological events and the calendar are very important in Alimus, downtime between notable events or exploits will be common. Villainous machinations typically unfold over the course of months and years, if not decades - not just over days and weeks. And our party's growth from level 1 to 20 in this campaign should feel organic, natural, and earned - not sudden and meteroic. The time between adventures is still very important - while ne'er-do-wells scheme and the stars follow their courses, our party will be training, investigating, researching and more.
+Uses of downtime:
+- 
+
 ## Free flavor feat
 - Flavor feats generally don't have combat utility. Please ask me if you are unsure what constitutes a flavor feat.
-- These will probably be awarded at level 1.
+- These may be learned by studying a craft during downtime.
 
 ## I know a guy!
 
@@ -69,11 +76,20 @@ The following are examples of how skills could be used specifically in Alimus. S
 
 **Acrobatics** (Dex)
 - Roll under a moving wagon and cling to its underside.
+- Tucking and rolling to avoid taking damage from a short fall.
+- Quickly navigate typical city obstacles in a parkour manner.
+Downtime: Train to perform an acrobatic stunt in the city coliseum or academy arena.
 
 **Animal Handling** (Wis)
 - Calm a rampaging elemental (or other creature with INT of 6 or lower).
+- Gaining **insight** about an animal's behavior.
+- **Perceiving** strange animal occurences.
+- Hush a guard dog that may begin barking.
+Downtime: befriend or train a pet.
 
 **Arcana** (Int)
+- 
+Downtime: craft a simple magic item
 
 **Athletics** (Str)
 - Jump over the gap between two buildings with awkwardly slanted roofs.
