@@ -49,7 +49,7 @@ At the end of each session, two Inspirations will be awarded:
 
 As cosmological events and the calendar are very important in Alimus, downtime between notable events or exploits will be common. Villainous machinations typically unfold over the course of months and years, if not decades - not just over days and weeks. And our party's growth from level 1 to 20 in this campaign should feel organic, natural, and earned - not sudden and meteroic. The time between adventures is still very important - while ne'er-do-wells scheme and the stars follow their courses, our party will be training, investigating, researching and more.
 Uses of downtime:
-- 
+
 
 ## Free flavor feat
 - Flavor feats generally don't have combat utility. Please ask me if you are unsure what constitutes a flavor feat.
