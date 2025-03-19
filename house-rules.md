@@ -110,114 +110,95 @@ Downtime: Train to perform an acrobatic stunt in the city coliseum or academy ar
 - **Perceiving** strange animal occurences.
 - Hush a guard dog that may begin barking.
 - (Can typically be used to replace any **Wisdom** or **Charisma** skill when interacting with an animal/beast).
-
-Downtime: befriend or train a pet.
+- **Downtime**: befriend or train a pet.
 
 
 **Arcana** (Int)
 - Identify what spell a magic user is attempting to cast.
 - Determine if a spell available to you could produce the desired effect.
-- 
-
-Downtime: craft a common magic item
+- **Downtime**: craft a common magic item
 
 **Athletics** (Str)
 - Jump over the gap between two buildings with awkwardly slanted roofs.
 - Scaling a suitable wall.
 - Pushing, pulling, lifting or carrying something that requires considerable exertion
-
-Downtime: Put in manual labor to build an addition to a **Bastion**.
+- **Downtime**: Put in manual labor to build an addition to a **Bastion**.
 
 **Deception** (Cha)
 - Act as a waiter at a luxury club to gain access to some high profile targets.
 - Disappear into a crowd to evade pursuit.
 - Convince strangers to hide or help you without revealing the specifics of your situation.
-
-Downtime: Build a disguise persona through research and practice.
+- **Downtime**: Build a disguise persona through research and practice.
 
 **History** (Int)
 - Recall the previous use of the district government building, and that it probably had a large cellar that is now used for other purposes.
 - Remember the gossip and stories have heard about an NPC.
 - Remember which faction was pushing for a particular policy.
-
-Downtime: Researching ancient, complex, or repressed lore.
+- **Downtime**: Researching ancient, complex, or repressed lore.
 
 **Insight** (Wis)
 - See which patron of a crowded tavern might know the information you're looking for.
 - Notice when someone is withholding truth or presenting only lies.
 - Infer someone's mood based on their recent behavior.
-
-Downtime: Build a character profile of a suspect you are researching, empathizing with the things you know of them to deduce their motives.
+- **Downtime**: Build a character profile of a suspect you are researching, empathizing with the things you know of them to deduce their motives.
 
 **Intimidation** (Cha)
 - Rile up a crowd to encourage them to vote for your performance.
 - Firmly convince a seller to charge you no more than a fair price for their wares.
 - Present yourself in a threatening manner to convince hostiles to stand down.
-
-Downtime: Bend a target to submit to your demands, or work to gain the respect of someone in authority
+- **Downtime**: Bend a target to submit to your demands, or work to gain the respect of someone in authority
 
 **Investigation** (Int)
 - Notice that a ransom note was written on premier parchment that can only be acquired at three shops in the city.
 - Compare different stories and notice any discrepancies presented.
 - Discover a hidden message left in a pattern of sprawled items.
-
-Downtime: Examine evidence from many sources - the suspect's home, crime scene(s), and captured evidence held by authorities, etc.
+- **Downtime**: Examine evidence from many sources - the suspect's home, crime scene(s), and captured evidence held by authorities, etc.
 
 **Medicine** (Wis)
 - Determine what caused a terrible sickness to overtake someone.
 - Examine a person's state of mind to determine if they're suffering **fear**, **stress**, or **insanity**.
 - Temporarily stabilize the condition of someone who is dying or suffering a condition like poison or disease.
-
-Downtime: Work to create a tonic that will prevent the symptoms of a new disease.
+- **Downtime**: Work to create a tonic that will prevent the symptoms of a new disease.
 
 **Nature** (Int)
 - Find a medicinal herb that creeps along walls in the undergrowth.
 - Know how rare a desired ingredient is, and where it may be found.
 - Remember the cultural significance of the black rose that was left with an ominous note.
-
-Downtime: Cultivate a garden of medicinal flowers on the roof of a **Bastion**.
+- **Downtime**: Cultivate a garden of medicinal flowers on the roof of a **Bastion**.
 
 **Perception** (Wis)
 - Find a quarry in a crowded street.
 - Read the lips of a target sitting on the opposite side of a theater.
 - Spot wear marks on a statue's finger where it appears to get pressed or pulled often.
-
-Downtime: Notice and record the movement patterns of the port authority during their second shift.
+- **Downtime**: Notice and record the movement patterns of the port authority during their second shift.
 
 **Performance** (Cha)
 - Give a moving rendition of a ballad such that the tale will stick in the minds of the audience for some time.
 - Play a friendly game of cards with a date, hoping to charm and impress them.
 - Acting a role convincingly - this could be used in place of **deception** in subterfuge situations.
-
-Downtime: Fulfill the duties of a temple acolyte for a week.
+- **Downtime**: Spend nights performing in a local watering hole.
 
 **Persuasion** (Cha)
 - Present facts and details in a careful manner to convince others of your interpretation.
 - Convince a stranger or acquaintance that your cause is worth their help or attention.
-- 
-
-Downtime: Building a case or presentation to ask for something - i.e. funding, or membership to a group.
+- **Downtime**: Building a case or presentation to ask for something - i.e. funding, or membership to a group.
 
 **Religion** (Int)
 - Recall which temple offers the services you require.
-- 
-- 
-
-Downtime:
+- Remember that a perished worshipper of Tyr should have been buried under the half-withered white birch in the city cemetery.
+- **Downtime**: Fulfill the duties of a temple acolyte for a week.
 
 **Sleight of Hand** (Dex)
 - Lift a key from the guard you just bumped into.
 - Catch a puppy falling from a high window.
 - Snip the fuse of an explosive that could collapse a tunnel, trapping miners in a mineshaft.
-
-Downtime: Practice breaking into an ironclad safe at home using improvised or example locks and mechanisms that are similar.
+- **Downtime**: Practice breaking into an ironclad safe at home using improvised or example locks and mechanisms that are similar.
 
 **Survival** (Wis)
 - Find a safe path through the port market to avoid the watchful eyes of the port authority.
 - Sense if the bustling crowd is just rowdy and excited or is sinister and could turn into a riot.
 - Identify what type of alcoholic drink could have left a white stain on a treated wood floor.
-
-Downtime: Travel the streets and alleys of a district to identify likely routes for smugglers to come through.
+- **Downtime**: Travel the streets and alleys of a district to identify likely routes for smugglers to come through.
 
 ## Short Rests are shorter
 
