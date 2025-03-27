@@ -56,7 +56,7 @@ Examples:
 Examples:
 - The party has caltrops prepared for a chase
 - A friend secured a boat in case the party needed to escape.
-- The party acquired an herbalism kit before venturing to a sacred garden in the underdark.
+- The party acquired an herbalism kit before venturing to a sacred garden in the undergrowth.
 
 ### 3. I know a guy!
 
