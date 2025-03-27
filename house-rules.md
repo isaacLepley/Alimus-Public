@@ -52,15 +52,14 @@ Examples:
 - A door is unusually creaky
 
 
-2. Have a pre-planned answer to a problem.
+### Have a pre-planned answer to a problem.
 
 Examples:
 - The party has caltrops prepared for a chase
 - A friend secured a boat in case the party needed to escape.
 - The party acquired an herbalism kit before venturing to a sacred garden in the underdark.
 
-3. I know a guy!
-
+**I know a guy!**
 - Allows players to improvise an NPC who can show up/be found and help in a situation. An appropriate skill check will inform how helpful/friendly the NPC starts off.
 
 ## Starting equipment
