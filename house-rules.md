@@ -44,23 +44,23 @@ If the entire party has inspiration, it must not have been a challenging session
 
 Inspired by Bennies from Savage Worlds and the FATE system, these are alternative options to allow players more flexibility in the use of their Inspirations.
 
-#### Add flavor or a detail to a scene
+### 1. Add flavor or a detail to a scene
 
 Examples:
 - A storm happens
 - A candle sets something on fire
 - A door is unusually creaky
 
-
-### Have a pre-planned answer to a problem.
+### 2. Have a pre-planned answer to a problem.
 
 Examples:
 - The party has caltrops prepared for a chase
 - A friend secured a boat in case the party needed to escape.
 - The party acquired an herbalism kit before venturing to a sacred garden in the underdark.
 
-**I know a guy!**
-- Allows players to improvise an NPC who can show up/be found and help in a situation. An appropriate skill check will inform how helpful/friendly the NPC starts off.
+### 3. I know a guy!
+
+Allows players to improvise an NPC who can show up/be found and help in a situation. An appropriate skill check will inform how helpful/friendly the NPC starts off.
 
 ## Starting equipment
 
