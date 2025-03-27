@@ -32,11 +32,36 @@ The **insanity** condition is intricately tied to the [fear and sanity](https://
 - Everyone uses the same ability score rules. Options include standard array, point buy, or roll.
 - If rolled, everyone will roll once and those numbers will be the standard array for the party.
 
-## Inspiration
+## Awarding Inspiration
 
-At the end of each session, two Inspirations will be awarded:
-- To the player who shone in role play.
+At the end of each session, typically two Inspirations will be awarded, to the following players:
+- To a player who shone notably in role play, whether in combat or out.
 - To the player most nominated by other party members.
+
+If the entire party has inspiration, it must not have been a challenging session. No matter, for if Inspirations would be awarded to a player who is already Inspired, they may add one hero die to their pool.
+
+## Inspiration Bennies
+
+Inspired by Bennies from Savage Worlds and the FATE system, these are alternative options to allow players more flexibility in the use of their Inspirations.
+
+####Add flavor or a detail to a scene
+
+Examples:
+- A storm happens
+- A candle sets something on fire
+- A door is unusually creaky
+
+
+2. Have a pre-planned answer to a problem.
+
+Examples:
+- The party has caltrops prepared for a chase
+- A friend secured a boat in case the party needed to escape.
+- The party acquired an herbalism kit before venturing to a sacred garden in the underdark.
+
+3. I know a guy!
+
+- Allows players to improvise an NPC who can show up/be found and help in a situation. An appropriate skill check will inform how helpful/friendly the NPC starts off.
 
 ## Starting equipment
 
@@ -75,37 +100,6 @@ See the **Skills** section for examples of how each skill could be applied in do
 Hero Points are a pool of d6 dice that players can roll from to increase the result of any d20 roll - attack, ability check, or saving throw (even death saving throws. Only one d6 may be added per roll). These dice facilitate and represent player characters' ability to succeed in extraordinary circumstances. Hero dice are available to be rolled at any time, except for whena character is **frightened**.
 
 The hero dice pool refreshes on level up. The number of hero dice available is equal to 5 plus half the character's level, rounded down.
-
-
-
-## Inspiration Bennies
-
-Inspired by Bennies from Savage Worlds and the FATE system, these are alternative options to allow players more flexibility in the use of their Inspirations.
-
-1. Add flavor or a detail to a scene
-
-Examples:
-
-- A storm happens
-
-- A candle sets something on fire
-
-- A door is unusually creaky
-
-
-2. Have a pre-planned answer to a problem.
-
-Examples:
-
-- The party has caltrops prepared for a chase
-
-- A friend secured a boat in case the party needed to escape.
-
-- The party acquired an herbalism kit before venturing to a sacred garden in the underdark.
-
-3. I know a guy!
-
-- Allows players to improvise an NPC who can show up/be found and help in a situation. An appropriate skill check will inform how helpful/friendly the NPC starts off.
 
 ## Players describe their spells and abilities (flavor is free)
 
