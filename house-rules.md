@@ -77,9 +77,35 @@ Hero Points are a pool of d6 dice that players can roll from to increase the res
 The hero dice pool refreshes on level up. The number of hero dice available is equal to 5 plus half the character's level, rounded down.
 
 
-## I know a guy!
 
-- Usable once per session for the whole party. Allows players to improvise an NPC who can show up/be found and help in a situation. An appropriate skill check will inform how helpful/friendly the NPC starts off.
+## Inspiration Bennies
+
+Inspired by Bennies from Savage Worlds and the FATE system, these are alternative options to allow players more flexibility in the use of their Inspirations.
+
+1. Add flavor or a detail to a scene
+
+Examples:
+
+- A storm happens
+
+- A candle sets something on fire
+
+- A door is unusually creaky
+
+
+2. Have a pre-planned answer to a problem.
+
+Examples:
+
+- The party has caltrops prepared for a chase
+
+- A friend secured a boat in case the party needed to escape.
+
+- The party acquired an herbalism kit before venturing to a sacred garden in the underdark.
+
+3. I know a guy!
+
+- Allows players to improvise an NPC who can show up/be found and help in a situation. An appropriate skill check will inform how helpful/friendly the NPC starts off.
 
 ## Players describe their spells and abilities (flavor is free)
 
