@@ -44,7 +44,7 @@ If the entire party has inspiration, it must not have been a challenging session
 
 Inspired by Bennies from Savage Worlds and the FATE system, these are alternative options to allow players more flexibility in the use of their Inspirations.
 
-####Add flavor or a detail to a scene
+#### Add flavor or a detail to a scene
 
 Examples:
 - A storm happens
