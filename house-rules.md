@@ -4,7 +4,7 @@
 
 - No 2014 classes. Subclasses may be permitted on a case basis. Homebrew subclasses can be worked out as well.
 - The broken spells are banned (conjure minor elementals? And the one that’s like running the enemies through a blender)
-- Bastions - new 2024 rules for customizable base(s) of operation. I think it would be really sweet if the party got access to Bastions throughout the city. Perhaps everyone in the party could have their own Bastion with things like a workshop and library, an attached tavern, etc.
+- [Bastions]([The New DnD Bastion System (Rules Deep Dive) | D&D Rules](https://dungeonsanddragonsfan.com/dnd-bastion-system/)) - new 2024 rules for customizable base(s) of operation. I think it would be really sweet if the party got access to Bastions throughout the city. Perhaps everyone in the party could have their own Bastion with things like a workshop and library, an attached tavern, etc.
 
 ## Frightened
 

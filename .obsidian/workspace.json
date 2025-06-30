@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sensitive-topics.md",
+                "file": "government.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sensitive-topics"
+              "title": "government"
             }
           }
         ],
@@ -196,14 +196,15 @@
   },
   "active": "7805419f7ac44cff",
   "lastOpenFiles": [
+    "house-rules.md",
     "party.md",
+    "festivals-and-phenomena",
+    "campaign-overview.md",
+    "sensitive-topics.md",
     "README.md",
     "poi.md",
-    "sensitive-topics.md",
-    "campaign-overview.md",
     "fear-and-sanity.md",
     "grimble.md",
-    "house-rules.md",
     "docs/assets/adrienne-kurai.pdf",
     "conflict-files-obsidian-git.md",
     "districts.md",
@@ -215,7 +216,6 @@
     "docs",
     "New folder",
     "git/Alimus-Public/Alimus-Public",
-    "git/Alimus-Public",
-    "git/New folder"
+    "git/Alimus-Public"
   ]
 }
