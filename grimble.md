@@ -42,16 +42,22 @@ Background: TBD
 
 - The Crypt of Laetis, where his mother’s body was interred by decree of the local judge. She is not buried with their ancestors at the old graveyard ran by priests of Kelemvor, and that funeral was one of the hardest times in his life.
 
-### His favorite person
+### Where he currently resides:
+- In a shack on the edge of Low Town, on a block that feels pretty safe. It is very basic, but inexpensive.
+
+### His ideal [bastion](https://dungeonsanddragonsfan.com/dnd-bastion-system/) ([home/base](https://www.dndbeyond.com/posts/1828-exploring-bastions-from-the-2024-dungeon-masters?srsltid=AfmBOopOp7I2BdPh3EE22r94J8JrWt1Dyk7r9HOMHFPJdO2Y2fshiu3P)):
+- He would like to own either a coffee shop as a side gig, or a workshop where he and others could tinker. And if his living situation was attached, either above, behind, or below his shop, that would be perfect.
+
+### A friend/ally:
 
 - Grimble has made good friends with a blink dog named Treats that lives somewhere below his family’s home in an underground natural cavern, part of the wild underground region of Alimus known as the Undergrowth.
 
-### A rival/enemy
+### A rival/enemy:
 
 - His older cousin, who is not a deep gnome and is in her final year at the Academy. She has always looked down on Grimble and clashed with him at family events.
 
-### His favorite festival
-- Grimble is a huge fan of volunteering to be a guide during the Perfect Alignment. During the alignment, 10,000 Modrons march through Alimus, but their march can be devastating. Thankfully, brave ambassadors long ago discovered that the modrons can be led away from their straight path as long as they are wearing socks. So each alignment, which happens every 642 days, volunteers outside the city provide socks to the modrons and guide them around the city , so as to avoid any unnecessary confrontations.
+### His favorite festival:
+- **Perfect Alignment**. Grimble is a huge fan of volunteering to be a guide during the Perfect Alignment. During the alignment, 10,000 Modrons march through Alimus, but their march can be devastating. Thankfully, brave ambassadors long ago discovered that the modrons can be led away from their straight path as long as they are wearing socks. So each alignment, which happens every 642 days, volunteers outside the city provide socks to the modrons and guide them around the city , so as to avoid any unnecessary confrontations.
 
 ### A god he likes/reveres
 
