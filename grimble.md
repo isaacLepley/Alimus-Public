@@ -37,12 +37,9 @@ Background: Guild artisan
 ### Blursed/flavorful magic items:
 
 - Common: Bottle of Endless Coffee
-
-- Grimble’s most prized possession - a present from his grandfather on his 17th birthday, which is an important coming-of-age celebration. His grandfather has been the biggest believers in his dreams and projects.
-
+	- Grimble’s most prized possession - a present from his grandfather on his 17th birthday, which is an important coming-of-age celebration. His grandfather has been the biggest believers in his dreams and projects.
 - Uncommon: Hag Eye
-
-- The one thing Grimble found at the corner where his sister disappeared eight years ago.
+	- The one thing Grimble found at the corner where his sister disappeared eight years ago.
 
 ### At least 2 connections with other party members:
 
