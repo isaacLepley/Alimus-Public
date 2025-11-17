@@ -1,4 +1,5 @@
 ## Books
+
 - Dungeons and Dragons: Worlds and Realms
 
 - Dungeons and Dragons: The Book of Dragons
@@ -9,6 +10,7 @@
 
 
 ## Games
+
 - The Bible is Funny
 
 - Munchkin Expansions
