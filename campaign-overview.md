@@ -27,6 +27,10 @@ This setting and campaign takes inspiration from a wide variety of sources, incl
 
 - *Call of Cthulu* and other works by H.P. Lovecraft.
 
+- Informational podcasts and videos, including those by *The Dungeoncast*, *Dungeon Dad*, *Pointy Hat*, *Roll for Lore*, and many others.
+
+- TTRPG actual plays and inspired material, including *Cr
+
 - Real-world mythology including Norse, Chinese, Greek, and Roman, and a plentitude of fictional material inspired by these stories.
 
 
