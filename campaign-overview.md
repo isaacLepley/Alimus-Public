@@ -16,5 +16,19 @@ For example, a bread-and butter D&D game may see your characters facing off agai
 ## Grim
 This game will heavily feature some fear and horror tropes. This focus exists to bring a spooky life to the game, and to further highlight the party's adventurous exploits in contrast to the darkness that seeks to consume Alimus. These are most felt in the new [fear and sanity](https://isaaclepley.github.io/Alimus-Public/fear-and-sanity.html) mechanics. The mechanical weight of fear and sanity encourage players to roleplay their character naturally, as if they are truly facing frightening sights and terrible horrors. And they also exist to highlight some of the good in the world, giving players boons for spending time worshipping their god or relaxing in their favorite places with their close friends.
 
+## Inspiration
+This setting and campaign takes inspiration from a wide variety of sources, including but certainly not limited to the following:
+
+- *Dungeons and Dragons*, and many related materials published by TSR, Paizo, Wizards of the Coast, and others.
+
+- The Forgotten Realms by Ed Greenwood.
+
+- *The Huntmaster*, *Alestorm*, and similar songs by Alestorm.
+
+- *Call of Cthulu* and other works by H.P. Lovecraft.
+
+- Real-world mythology including Norse, Chinese, Greek, and Roman, and a plentitude of fictional material inspired by these stories.
+
+
 ***
 [Return to Wiki Home](https://isaaclepley.github.io/Alimus-Public)
