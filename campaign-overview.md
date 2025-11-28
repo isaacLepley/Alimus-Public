@@ -29,7 +29,7 @@ This setting and campaign takes inspiration from a wide variety of sources, incl
 
 - Informational podcasts and videos, including those by *The Dungeoncast*, *Dungeon Dad*, *Pointy Hat*, *Roll for Lore*, and many others.
 
-- TTRPG actual plays and inspired material, including *Cr
+- TTRPG actual plays and inspired material, including *Critical Role* and *Dimension 20*.
 
 - Real-world mythology including Norse, Chinese, Greek, and Roman, and a plentitude of fictional material inspired by these stories.
 
