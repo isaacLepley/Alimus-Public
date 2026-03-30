@@ -14,6 +14,7 @@ Alimus needs adventurers like you to fight for good and challenge the status quo
 [The Party!](https://isaaclepley.github.io/Alimus-Public/party.html)
 
 ### Alimus, Stairway to the Heavens
+- [Calendar](https://isaaclepley.github.io/Alimus-Public/calendar.html)
 
 - [City Districts](https://isaaclepley.github.io/Alimus-Public/districts.html)
 
