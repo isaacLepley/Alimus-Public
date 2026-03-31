@@ -21,6 +21,11 @@
   </tr></thead>
 </table>
 
+The standard weekend throughout the Great Continent is Shade's day and Sun day. However, various professions and religious orders use their own workweek. For example, followers of one of the two moon goddesses often observe the weekend on Sun day and Moon day, onserving Moon day as a day of rest and reverence.
+
+
+## Workweek
+
 The typical workweek in Alimus is five days or 40 hours. This standard is followed by most denizens of the city, excepting those who must work more to survive and those with enough means to live frivolously.
 
 Workweeks will not necessarily need rolls for results, but a result may be rolled when a character's work is focused on something related to the plot or when otherwise requested. 
