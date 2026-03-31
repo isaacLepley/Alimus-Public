@@ -21,7 +21,7 @@
   </tr></thead>
 </table>
 
-The standard weekend throughout the Great Continent is Shade's day and Sun day. However, various professions and religious orders use their own workweek. For example, followers of one of the two moon goddesses often observe the weekend on Sun day and Moon day, onserving Moon day as a day of rest and reverence.
+The standard weekend throughout the continent Erd Groot is Shade's day and Sun day. However, various professions and religious orders use their own workweek. For example, followers of one of the two moon goddesses often observe the weekend on Sun day and Moon day, onserving Moon day as a day of rest and reverence.
 
 
 ## Workweek
