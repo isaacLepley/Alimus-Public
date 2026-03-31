@@ -32,7 +32,16 @@ Throughout the game, workweeks will not necessarily need rolls for results, but 
 
 Workweek activities will follow the [downtime rules](https://homebrewery.naturalcrit.com/share/BJZZhstU5G) from Xanathar's Guide. The default workweek activity is **Work**, although others may fit certain professions better.
 
-Common Workweek activities;
+Common workweek activities:
+- Work
+- Religious Service
+- Crafting
+
+Uncommon workweek activities:
+- Training
+- Research
+- Crime
+- Relaxation
 
 ## Yearly Calendar
 
