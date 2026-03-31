@@ -43,6 +43,11 @@ Uncommon workweek activities:
 - Crime
 - Relaxation
 
+Rare workweek activities
+
+
+For more information regarding workweek activities, 
+
 ## Yearly Calendar
 
 The year is AR (Ale Reckoning) 13,140. Popular legend suggests that the first Alestrom harried the desert and plains of the Great Continent in the year AR 0. Some scholars argue that "Ale" is a shortening of "Alimus", and the calendar was named by ancient Alimus academics who created the system, or that AR 0 commemorated a key event in the city.
