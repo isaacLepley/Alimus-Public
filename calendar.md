@@ -51,7 +51,7 @@ Rare workweek activities:
 - Pit fighting
 - Scribe a spell scroll
 
-For more information regarding workweek activities, please reference the [downtime activities reference document](https://homebrewery.naturalcrit.com/share/BJZZhstU5G), or read the section in Xanathar's guide for more details. Custom workweek activities may be added to the options as necessary, when an existing option is insufficient to represent the desired task.
+For more information regarding workweek activities, please see the [downtime activities quick reference document](https://homebrewery.naturalcrit.com/share/BJZZhstU5G), or read the section in Xanathar's guide for more details. Custom workweek activities may be added to the options as necessary, when an existing option is insufficient to represent the desired task.
 
 ## Yearly Calendar
 
