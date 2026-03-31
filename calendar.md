@@ -26,7 +26,7 @@ The standard weekend throughout the Great Continent is Shade's day and Sun day. 
 
 ## Workweek
 
-The typical workweek in Alimus is five days or 40 hours. This standard is followed by most denizens of the city, but some must work more to survive and others have enough means to live frivolously.
+The typical workweek in Alimus is five work days, or 40 hours. This standard is followed by most denizens of the city, but some must work more to survive while others have enough means to live frivolously.
 
 Throughout the game, workweeks will not necessarily need rolls for results, but a result may be rolled when a character's work is focused on something related to the plot or when otherwise requested. 
 
@@ -40,13 +40,18 @@ Common workweek activities:
 Uncommon workweek activities:
 - Training
 - Research
+- Carousing
 - Crime
 - Relaxation
 
-Rare workweek activities
+Rare workweek activities:
+- Sell a magic item
+- Gambling
+- Buy a magic item
+- Pit fighting
+- Scribe a spell scroll
 
-
-For more information regarding workweek activities, 
+For more information regarding workweek activities, please reference the [downtime activities reference document](https://homebrewery.naturalcrit.com/share/BJZZhstU5G), or read the section in Xanathar's guide for more details. Custom workweek activities may be added to the options as necessary, when an existing option is insufficient to represent the desired task.
 
 ## Yearly Calendar
 
